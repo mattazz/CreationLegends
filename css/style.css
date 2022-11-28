@@ -8,6 +8,10 @@ hr{
     border-color: white;
 }
 .logo-div{
-    height: 200px;
+    height: 300px;
     margin-top: 4rem;
+}
+#logo-image{
+    max-height: 180px;
+    max-width: 180px;
 }

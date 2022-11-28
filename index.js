@@ -11,6 +11,3 @@ function logorot(){
     }
 }
 logorot()
-
-
-// document.getElementById('logo-image').style.transform = 'rotate(45deg)'

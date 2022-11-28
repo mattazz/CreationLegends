@@ -1,6 +1,9 @@
 body{
     background-color: black;
 }
-h1{
+h1, p{
     color: white;
+}
+hr{
+    border-color: white;
 }

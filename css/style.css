@@ -7,3 +7,7 @@ h1, p{
 hr{
     border-color: white;
 }
+.logo-div{
+    height: 200px;
+    margin-top: 4rem;
+}

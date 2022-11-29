@@ -1,7 +1,7 @@
 body{
     background-color: black;
 }
-h1, p{
+h1, h2, p{
     color: white;
 }
 hr{
@@ -17,19 +17,25 @@ hr{
 }
 .main-section{
     width: 100%;
-    height: 400px;
+    height: 100%;
     border: 1px solid white;
     align-content: center;
     flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     
 }
 .top-section{
-    width: 30%;
+    width: 30rem;
+    height: 20rem;
     border: 1px solid yellow;
     background-color: blue;
     flex-grow: 0;
 }
 .space{
     height: 100px;
+}
+.navbar-toggler{
+    color: white;
+    background-color: white;
 }

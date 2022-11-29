@@ -5,7 +5,7 @@ h1, h2, p{
     color: white;
 }
 hr{
-    border-color: white;
+    border: 1px solid white;
 }
 .logo-div{
     height: 300px;
@@ -38,4 +38,8 @@ hr{
 .navbar-toggler{
     color: white;
     background-color: white;
+}
+.credits-section{
+    font-size: 0.8rem;
+    color: white;
 }

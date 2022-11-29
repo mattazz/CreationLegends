@@ -30,3 +30,6 @@ hr{
     background-color: blue;
     flex-grow: 0;
 }
+.space{
+    height: 100px;
+}

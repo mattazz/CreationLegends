@@ -43,3 +43,16 @@ hr{
     font-size: 0.8rem;
     color: white;
 }
+.enter-button :not(:hover){
+    font-size: 1rem;
+    color: black;
+    border: none;
+    transition: font-size 1s, background-color 1s;
+}
+.enter-button :hover{
+    color: white;
+    background-color: black;
+    border: none;
+    font-size: 2rem;
+    transition:font-size 1s;
+}

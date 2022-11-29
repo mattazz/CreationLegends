@@ -6,7 +6,7 @@ function logorot(){
     let rotation = 'rotate(' + x + 'deg)'
     $('#logo-image').css('transform', rotation)
     x++
-    if(x<1000){
+    if(i<1000){
         setTimeout(logorot, 50);
     }
 }
